@@ -1,10 +1,12 @@
-This is just a place to store all of the things i learned from the Ruby Language course
+<h1>Th3Heretic's RubyLessons</h1>
 
-Basics:
-This includes all of the files i have made that demonstrate different functionality within the ruby language.
+<p>This is just a place to store all of the things i learned from the Ruby Language course</p>
 
-OOP:
-Demonstrates the Object Oriented Programming functionality of RubyMine.
+<h2>Basics:</h2>
+<p>This includes all of the files i have made that demonstrate different functionality within the ruby language.</p>
 
-Projects:
-Files that demonstrate the concepts learned in the basics folder.
+<h2>OOP:</h2>
+<p>Demonstrates the Object Oriented Programming functionality of RubyMine.</p>
+
+<h2>Projects:</h2>
+<p>Files that demonstrate the concepts learned in the basics folder.</p>
