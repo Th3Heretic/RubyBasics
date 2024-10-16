@@ -1,0 +1,7 @@
+Ruby supports various data types such as:
+
+	•	Strings: "hello"
+	•	Numbers: 42, 3.14
+	•	Booleans: true, false
+	•	Arrays: ["apple", "banana", "cherry"]
+	•	Hashes (Dictionaries): {"name" => "Alice", "age" => 25}
