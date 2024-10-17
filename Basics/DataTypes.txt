@@ -1,7 +1,16 @@
-Ruby supports various data types such as:
+<h1>Data Types</h1>
+
+<h2>Ruby supports various data types such as:</h2>
 
 	•	Strings: "hello"
+	        A String is a sequence of characters. In Ruby, strings can be written using single quotes ' or
+	        double quotes ". Double quotes allow string interpolation and special characters like \n (newline).
 	•	Numbers: 42, 3.14
+	        age = 30   Integer
+	        price = 19.99  Float
+	            Ruby automatically distinguishes between Integer and Float based on the presence of a
+	            decimal point. Arithmetic operations like addition (+), subtraction (-), multiplication (*),
+	            and division (/) work with both.
 	•	Booleans: true, false
-	•	Arrays: ["apple", "banana", "cherry"]
-	•	Hashes (Dictionaries): {"name" => "Alice", "age" => 25}
+	•	Arrays: ["apple", "banana", "pear"]
+	•	Hashes (Dictionaries): {"name" => "Jack", "age" => 25}
